@@ -15,4 +15,5 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/full_r950.mk
+    $(LOCAL_DIR)/full_r950.mk \
+    $(LOCAL_DIR)/omni_r950.mk
